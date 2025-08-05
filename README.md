@@ -37,8 +37,8 @@ Welcome to my cybersecurity portfolio! I'm a self-taught learner with a backgrou
 ---
 
 ## 📄 Resume
-Mohamed-Elsayed - CS Resume .pdf
-
+[Mohamed-Elsayed - CS Resume .pdf
+](https://github.com/MoAdel111/Cybersecurity-Portfolio/raw/main/Mohamed-Elsayed-CS-Resume.pdf)
 ## 📞 Contact
 - **Email:** mohamedabdelkadeer94@gmail.com  
 - **LinkedIn:** [https://www.linkedin.com/in/mohamed-elsayed-130797204/](#)  
